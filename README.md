@@ -13,10 +13,10 @@ A web application that takes integer from the sensor and send it to a database.
 
 ## ⭐ Screenshots
 - First step:
-![App Screenshot](img/img0.png)
-- Second step:
 ![App Screenshot](img/img1.png)
-- Third step:
+- Second step:
 ![App Screenshot](img/img2.png)
-- Forth step:
+- Third step:
 ![App Screenshot](img/img3.png)
+- Forth step:
+![App Screenshot](img/img4.png)
